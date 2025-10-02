@@ -48,3 +48,14 @@ Net Sales = [Total Sales] - [Total Returns]
 Returns Negative = -1 * [Total Returns]
 
 Net Sales = [To]()
+
+## 📸 Dashboard Previews
+
+### 1. Executive Overview
+![Overview](images/Overview.png)
+
+### 2. Customer Analysis
+![Customers](images/customers Analysis.png)
+
+
+
