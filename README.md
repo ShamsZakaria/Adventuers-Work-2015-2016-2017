@@ -54,7 +54,7 @@ Net Sales = [To]()
 1. Executive Overview
 ![Overview](Overview.png)
 2. Customer Analysis
-![Customers](Overview.png)
+![Customers](CustomersAnalysis.png)
 
 
 
