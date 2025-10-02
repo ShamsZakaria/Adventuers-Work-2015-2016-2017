@@ -52,9 +52,9 @@ Net Sales = [To]()
 📸 Dashboard Previews
 
 1. Executive Overview
-![Overview](images/Overview.png)
+![Overview](Overview.png)
 2. Customer Analysis
-![Customers](images/customersAnalysis.png)
+![Customers](Overview.png)
 
 
 
