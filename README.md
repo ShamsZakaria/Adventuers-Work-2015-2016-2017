@@ -38,7 +38,7 @@ The aim is to deliver actionable insights through an interactive **Power BI Dash
 ---
 
 ## 📐 Key DAX Measures
-```DAX
+DAX
 Total Sales = CALCULATE(SUM(Sales[OrderQuantity]), NOT(ISBLANK(Sales[OrderQuantity])))
 
 Total Returns = CALCULATE(SUM(Returns[ReturnQuantity]), NOT(ISBLANK(Returns[ReturnQuantity])))
@@ -49,13 +49,12 @@ Returns Negative = -1 * [Total Returns]
 
 Net Sales = [To]()
 
-## 📸 Dashboard Previews
+📸 Dashboard Previews
 
-### 1. Executive Overview
+1. Executive Overview
 ![Overview](images/Overview.png)
-
-### 2. Customer Analysis
-![Customers](images/customers Analysis.png)
+2. Customer Analysis
+![Customers](images/customersAnalysis.png)
 
 
 
